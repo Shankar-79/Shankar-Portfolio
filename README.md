@@ -36,8 +36,7 @@ portfolio/
 │── package.json
 │── vite.config.js
 ⚙️ Installation & Setup
-# Clone the repository
-git clone https://github.com/your-username/portfolio.git
+
 
 # Go into folder
 cd portfolio
@@ -50,7 +49,7 @@ npm run dev
 📬 Contact Me
 📧 Email: parabshankar79@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/shankar-parab/
-🐙 GitHub: [(Add your link)](https://github.com/Shankar-79")
+🐙 GitHub: https://github.com/Shankar-79"
 
 ⭐ Show Your Support
 
