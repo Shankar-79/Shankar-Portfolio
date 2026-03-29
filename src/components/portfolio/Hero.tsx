@@ -50,7 +50,7 @@ const Hero = () => {
           <div className="w-72 h-72 sm:w-80 sm:h-80 lg:w-[420px] lg:h-[420px] rounded-full gradient-bg opacity-90 animate-float shadow-2xl flex items-center justify-center">
              <div className="w-56 h-56 sm:w-64 sm:h-64 lg:w-80 lg:h-80 rounded-full overflow-hidden   shadow-lg">
             
-              <img src="/src/assets/ShankarParab_photo.png" alt="SP"
+              <img src="/assets/ShankarParab_photo.png" alt="SP"
               className="w-full h-full object-cover" />
             
             </div>

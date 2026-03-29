@@ -1,9 +1,7 @@
 import { useScrollAnimation } from "@/hooks/useScrollAnimation";
 import { ArrowRight, Github } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import project1 from "@/assets/project-1.png";
-import project2 from "@/assets/project-2.png";
-import project3 from "@/assets/project-3.png";
+
 
 const projects = [
   {
@@ -11,7 +9,7 @@ const projects = [
     description:
       "Developed database-driven system for managing student records, designed relational schema, and connected MySQL with Python for efficient data operations. ",
     tags: ["HTML","javascript", "MySQL","python","API"],
-    image: project1,
+    image:"/assets/project-1.png",
     link: "https://github.com/Shankar-79/Student-mangement",
   },
   {
@@ -19,7 +17,7 @@ const projects = [
     description:
       "Built responsive full stack website for a team-developed project management platform using reusable components and integrated UI with backend APIs for task workflow updates. .",
     tags: ["React", "Python", "tailwind"],
-    image: project2,
+    image:"/assets/project-2.png",
     link: "https://github.com/CROB-WEB-AGENCY/Project-Management-Tool",
   },
   {
@@ -27,7 +25,7 @@ const projects = [
     description:
       "Built a voice-controlled desktop assistant with wake-word detection, real-time speech recognition, and system automation for executing commands and controlling applications.",
     tags: ["Python", "SpeechRecognition", "Pyttsx3 "],
-    image: project3,
+    image:"/assets/project-3.png",
     link: "https://github.com/Shankar-79/voice-assitance",
   },
 ];
