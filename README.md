@@ -21,31 +21,8 @@ Hi, I'm Shankar Parab, a passionate IT engineering student from Goa Engineering 
 📂 Projects showcase section
 📬 Contact form (Email integration)
 ⚡ Fast performance using Vite + React
-🛠️ Tech Stack
-Frontend: React, Tailwind CSS
-Build Tool: Vite
-Animations: Framer Motion
-📁 Project Structure
-portfolio/
-│── public/
-│── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   └── App.jsx
-│── package.json
-│── vite.config.js
-⚙️ Installation & Setup
 
 
-# Go into folder
-cd portfolio
-
-# Install dependencies
-npm install
-
-# Run the project
-npm run dev
 📬 Contact Me
 📧 Email: parabshankar79@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/shankar-parab/
